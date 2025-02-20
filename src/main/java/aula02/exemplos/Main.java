@@ -1,9 +1,8 @@
-package aula02_colecoes.exemplos;
+package aula02.exemplos;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import java.util.stream.Collectors;
 
 public class Main {
 
